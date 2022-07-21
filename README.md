@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartiSouza
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in learning programming and XR
+- 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on any project
 
 <!---
